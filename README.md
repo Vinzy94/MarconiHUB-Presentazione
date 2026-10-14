@@ -1,69 +1,69 @@
 # Marconi HUB
 
-**Un ambiente digitale per coordinare servizi e informazioni della comunità scolastica.**
+**Una piattaforma digitale modulare pensata per le esigenze delle scuole.**
 
-Marconi HUB raccoglie in un unico punto di accesso strumenti web sviluppati per rispondere a esigenze operative dell’I.I.S. “G. Marconi” di Torre Annunziata. Il progetto è cresciuto intorno a problemi concreti: consultare l’orario, orientarsi tra servizi, organizzare l’uso degli spazi e rendere più accessibili alcune informazioni scolastiche.
+Marconi HUB riunisce strumenti web che aiutano a consultare informazioni e a gestire attività scolastiche. È nata per rispondere a esigenze che ricorrono nei diversi contesti educativi: orientarsi tra i servizi, consultare l’orario, organizzare l’uso degli spazi e rendere più accessibili alcune informazioni.
 
-Questa pagina presenta obiettivi, aree funzionali e possibilità di collaborazione. Non distribuisce il codice sorgente e non sostituisce le procedure e i sistemi ufficiali dell’istituto.
+La piattaforma è attualmente in uso presso l’I.I.S. “G. Marconi” di Torre Annunziata. Le aree e le configurazioni possono essere valutate e adattate insieme alle scuole interessate, tenendo conto della loro organizzazione e delle loro necessità.
 
-## Aree del progetto
+Questa vetrina descrive il progetto e le sue funzioni, senza distribuire il codice sorgente. Marconi HUB affianca gli strumenti e le procedure ufficiali adottati da ciascuna scuola.
+
+## Aree funzionali
 
 ### Orario Semplice
 
-Consultazione dell’orario attraverso viste dedicate a classi, docenti, aule, materie e moduli. L’interfaccia è progettata per rendere i prospetti consultabili anche da schermi condivisi e dispositivi mobili.
+Consente di consultare l’orario con viste dedicate a classi, docenti, aule, materie e moduli. I prospetti sono pensati per essere leggibili anche su schermi condivisi e dispositivi mobili.
 
 ### Atrium
 
-Agenda per spazi, incontri e attività. Offre viste per giorno, settimana, mese ed elenco, con possibilità di filtrare le prenotazioni per aula.
+Organizza l’agenda degli spazi, degli incontri e delle attività. Offre viste per giorno, settimana, mese ed elenco, con possibilità di filtrare le prenotazioni per aula.
 
 ### Desk
 
-Punto di accesso a funzioni e servizi per il personale scolastico. La configurazione delle funzioni dipende dal contesto dell’istituto.
+Raccoglie punti di accesso a funzioni e servizi per il personale scolastico. Le funzioni possono variare in base alla configurazione scelta.
 
 ### Mosaico
 
-Ambiente gestionale che raccoglie strumenti amministrativi e di supporto ai processi scolastici. Le funzioni vengono descritte a livello generale in questa presentazione; i dati e le schermate operative non sono pubblicati.
+È un ambiente gestionale con strumenti amministrativi e di supporto ai processi scolastici. La vetrina ne presenta le finalità generali senza pubblicare dati o schermate operative.
 
 ### MiA
 
-Assistente informativo integrato in alcune pagine del progetto. Le funzioni documentate comprendono ricerche circoscritte sull’orario, spiegazione di sigle e consultazione di alcune informazioni istituzionali. La risposta dipende dai dati disponibili e non sostituisce le comunicazioni ufficiali.
+È un assistente informativo integrato in alcune pagine della piattaforma. Supporta ricerche circoscritte sull’orario, la spiegazione di sigle e la consultazione di informazioni selezionate. Le risposte dipendono dai dati disponibili e non sostituiscono le comunicazioni ufficiali della scuola.
 
-## Perché nasce
+## Un progetto per le scuole
 
-Marconi HUB nasce dal lavoro quotidiano di osservazione, progettazione e miglioramento dei servizi digitali scolastici. L’obiettivo è ridurre la dispersione tra strumenti, rendere le informazioni più facili da consultare e sviluppare soluzioni aderenti alle necessità effettive della scuola.
+Marconi HUB nasce dall’osservazione del lavoro scolastico e dalla progettazione di strumenti digitali utili nella vita quotidiana degli istituti. L’obiettivo è riunire funzioni correlate, semplificare l’accesso alle informazioni e costruire soluzioni che possano essere discusse e adattate con le scuole interessate.
 
-Il progetto è ideato e curato da **Vincenzo Rosario Mellone**, responsabile ICT dell’I.I.S. “G. Marconi” di Torre Annunziata.
+Il progetto è ideato e curato da **Vincenzo Rosario Mellone**.
 
-## Collaborazioni con altre scuole
+## Collaborazioni
 
-Sono disponibile a confrontarmi con istituti interessati a conoscere il progetto, valutarne l’adattamento o collaborare alla sua attivazione. Ogni contesto ha organizzazione, dati, infrastruttura e regole proprie: modalità e condizioni di un eventuale percorso condiviso vanno concordate con la scuola interessata.
+Sono disponibile a confrontarmi con scuole interessate a conoscere Marconi HUB, valutarne l’adattamento o discutere un possibile percorso di attivazione. Ogni collaborazione può partire dalle esigenze dell’istituto e definire insieme ambito, configurazione, dati, infrastruttura, responsabilità e modalità di manutenzione.
 
-Per avviare un confronto: **info@vr-m.it**. Per contatti istituzionali: **ict@marconi.edu.it**.
+Per avviare un confronto: [info@vr-m.it](mailto:info@vr-m.it).
 
 ## Codice e condivisione
 
-Questa vetrina documenta il progetto senza distribuire il codice sorgente. La disponibilità a collaborare riguarda il confronto, la dimostrazione e la valutazione di possibili percorsi di adozione. Eventuali forme di riuso, adattamento o condivisione tecnica saranno definite separatamente, chiarendo titolarità, autorizzazioni, responsabilità, protezione dei dati e condizioni di manutenzione.
+Questa pubblicazione presenta il progetto senza distribuire il codice sorgente. La disponibilità a collaborare riguarda il confronto, la dimostrazione e la valutazione di possibili percorsi con altre scuole. Eventuali forme di riuso, adattamento o condivisione tecnica saranno concordate separatamente, chiarendo titolarità, autorizzazioni e condizioni di gestione.
 
 ## Schermate dimostrative
 
-Le immagini pubblicate dovranno provenire da ambienti dimostrativi o essere verificate e rese anonime prima della pubblicazione. Non includere nomi, account, credenziali, orari riconducibili a persone, richieste reali, dati di studenti o personale, indirizzi interni, URL con token, notifiche o metadati identificativi.
+Le schermate saranno aggiunte usando dati dimostrativi o dopo aver verificato che non contengano informazioni personali o riservate. La selezione prevista comprende:
 
-| Immagine da preparare | Cosa mostra |
+| Schermata | Cosa illustra |
 |---|---|
-| Home Marconi HUB | Il portale e l’accesso ai servizi |
+| Home Marconi HUB | L’accesso alle aree della piattaforma |
 | Orario Semplice | Una vista di consultazione con dati dimostrativi |
-| Atrium | Agenda degli spazi con prenotazioni di esempio |
-| Desk e Mosaico | Aree funzionali, senza dati personali o amministrativi |
-| MiA | Una domanda dimostrativa e una risposta non riferita a persone reali |
+| Atrium | L’agenda degli spazi con prenotazioni di esempio |
+| Desk e Mosaico | Aree funzionali senza dati operativi |
+| MiA | Un esempio di domanda e risposta non riferito a persone reali |
 
-## Contatti e informazioni
+## Contatti
 
-- Referente: Vincenzo Rosario Mellone
+- Referente del progetto: Vincenzo Rosario Mellone
 - Sito: [vr-m.it](https://www.vr-m.it/)
-- Contatto progetto: [info@vr-m.it](mailto:info@vr-m.it)
-- Contatto istituzionale: [ict@marconi.edu.it](mailto:ict@marconi.edu.it)
+- Email: [info@vr-m.it](mailto:info@vr-m.it)
 
 ---
 
-*Presentazione informativa del progetto. Le funzioni e le schermate possono evolvere; per una valutazione operativa è necessario un confronto sul contesto della scuola interessata.*
-
+*Le funzioni e le configurazioni possono evolvere. Per valutare una collaborazione o un’attivazione è necessario un confronto con la scuola interessata.*
