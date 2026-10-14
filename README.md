@@ -8,6 +8,10 @@ Il progetto è rivolto alle scuole. È attualmente in uso presso l’I.I.S. “G
 
 Per una descrizione funzionale più ampia, consulta il [PDF di presentazione per le scuole](MarconiHUB_presentazione_scuole.pdf).
 
+## Approfondimento sul sito
+
+Leggi l’[articolo di presentazione di Marconi HUB](https://www.vr-m.it/sito/2026/10/14/marconi-hub-un-ambiente-digitale-per-organizzare-la-vita-scolastica/) sul sito del progetto.
+
 ## Mosaico: il centro operativo
 
 Mosaico raccoglie dashboard, anagrafica docenti, classi di concorso, stati e archivi annuali, gestione degli account, richieste di registrazione da verificare, bacheche, modelli e collegamenti ai servizi della piattaforma. La dashboard dello staff mostra il riepilogo dei servizi e delle pratiche accessibili al proprio profilo; l’amministrazione può configurare utenti e ruoli.
