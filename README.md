@@ -127,7 +127,7 @@ Le immagini mostrano l’interfaccia e alcuni flussi. I nominativi e i dati pers
 
 ## Codice e condivisione
 
-Questa pubblicazione illustra il progetto senza distribuire il codice sorgente. Eventuali forme di riuso, adattamento o condivisione tecnica saranno concordate separatamente, chiarendo titolarità, autorizzazioni e condizioni di gestione.
+Questa pubblicazione illustra il progetto senza distribuire il codice sorgente. La [licenza d’uso](LICENSE.md) si applica ai materiali descrittivi del repository e consente di consultarli e condividerli integri per valutazioni e presentazioni scolastiche non commerciali. Non concede diritti di installazione, accesso, modifica o distribuzione del software Marconi HUB. Attivazioni, adattamenti e collaborazioni tecniche si concordano separatamente con il titolare dei relativi diritti.
 
 ---
 
