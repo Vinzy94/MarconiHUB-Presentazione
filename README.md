@@ -36,7 +36,11 @@ L’importazione attuale supporta un periodo e una settimana per file OFD e file
 
 ### Orario LIM
 
-Pensato per lavagne interattive e monitor condivisi, mostra per le classi la lezione in corso e quella successiva, con materia, aula e fascia oraria. Le viste possono essere filtrate per plesso o area; sono disponibili consultazioni rapide e riepiloghi dell’attività. Prima dell’uso su schermi pubblici, la scuola definisce quali informazioni esporre.
+Pensato per lavagne interattive e monitor condivisi, mostra per le classi la lezione in corso e quella successiva, con materia, aula e fascia oraria. Le viste possono essere filtrate per plesso o area. Dalla LIM si può consultare l’occupazione e cercare aule libere indicando plesso, giorno e fascia oraria; è possibile filtrare per mostrare solo gli spazi disponibili. Questo aiuta docenti e personale a individuare un’aula per un’attività o uno spostamento senza ricostruire manualmente il quadro del plesso.
+
+### Segreteria e convocazione del personale
+
+La consultazione dell’orario e dei dati di servizio può aiutare la segreteria a verificare disponibilità e contesto durante la convocazione del personale. Accessi e informazioni visibili vanno assegnati in modo mirato secondo la policy dell’istituto. Marconi HUB supporta la reperibilità del quadro informativo; eventuali invii o procedure automatiche di convocazione vanno verificati e concordati in fase di configurazione.
 
 ### Gestione COE
 
@@ -62,7 +66,11 @@ Le bacheche digitali supportano note e checklist condivise. Doc. Factory raccogl
 
 ### Recuperi, sostegno e assistente MiA
 
-Le aree collegate all’orario supportano la gestione di permessi brevi, ore di recupero e relative registrazioni o validazioni, secondo i permessi assegnati. Gli strumenti di sostegno sono collegati alla consultazione dell’orario. La gestione delle sostituzioni è segnalata come in sviluppo e non viene presentata come funzione già disponibile.
+Il Registro Recuperi supporta la registrazione di permessi brevi e ore da recuperare, con stati, scadenze e validazioni secondo i permessi assegnati. Referenti di plesso e personale incaricato possono ricevere accesso alla gestione in base ai ruoli configurati. Le registrazioni possono conservare il contesto operativo delle ore collegate alle sostituzioni.
+
+Orario Semplice include una simulazione di sostituzione che può proporre candidati considerando compresenze, sostegno programmato, docenti di potenziamento e ore libere compatibili. La proposta è modificabile e stampabile; criteri e priorità vanno adattati alle regole della scuola. La gestione condivisa e persistente del flusso è un’area in sviluppo/configurazione. È inoltre possibile valutare una schermata pubblica con il quadro delle sostituzioni del giorno, esponendo solo le informazioni approvate dall’istituto.
+
+Gli strumenti di sostegno sono collegati alla consultazione dell’orario.
 
 MiA è un assistente informativo integrato, che usa l’orario, le informazioni e il vocabolario predisposti per rispondere a domande circoscritte, ad esempio su lezioni, classi, docenti e luoghi. Le risposte dipendono dai dati disponibili e non sostituiscono le comunicazioni ufficiali.
 
@@ -70,7 +78,7 @@ MiA è un assistente informativo integrato, che usa l’orario, le informazioni 
 
 La piattaforma può essere valutata per l’installazione nell’infrastruttura locale della scuola. Server, rete, accessi, aggiornamenti, backup e responsabilità operative vanno definiti con i referenti dell’istituto durante il percorso di attivazione.
 
-Orario Semplice è predisposto come applicazione web installabile sui dispositivi compatibili e include una modalità offline. Dopo l’accesso e la preparazione sul dispositivo, alcune viste e risorse già salvate possono rimanere disponibili; se è abilitata la sincronizzazione, alcune modifiche possono essere accodate e inviate al ritorno della connessione. La disponibilità dipende dal dispositivo, dal browser, dalla sessione e dai contenuti già preparati. **La modalità offline riguarda Orario Semplice e non significa che tutti i servizi HUB funzionino senza rete.**
+Orario Semplice è predisposto come applicazione web installabile (PWA) su dispositivi e browser compatibili: computer, tablet, smartphone e LIM. Gli aggiornamenti vengono distribuiti attraverso il browser e il service worker, senza reinstallare manualmente un pacchetto per ogni rilascio; quando richiesto, l’utente può confermare l’aggiornamento disponibile. Dopo l’accesso e la preparazione sul dispositivo, alcune viste e risorse già salvate possono rimanere disponibili offline; se è abilitata la sincronizzazione, alcune modifiche possono essere accodate e inviate al ritorno della connessione. La disponibilità dipende dal dispositivo, dal browser, dalla sessione e dai contenuti già preparati. **La modalità offline riguarda Orario Semplice e non significa che tutti i servizi HUB funzionino senza rete.**
 
 ## Vantaggi per l’organizzazione scolastica
 
@@ -124,4 +132,3 @@ Questa pubblicazione illustra il progetto senza distribuire il codice sorgente. 
 ---
 
 *Le funzioni e le configurazioni possono evolvere. Compatibilità dei flussi, servizi richiesti e modalità di installazione vanno verificati con la scuola interessata.*
-
